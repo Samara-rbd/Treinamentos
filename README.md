@@ -1,2 +1,2 @@
 # Treinamentos
- exercicios e treinamentos
+ aqui estão todos os meus exercicios que fiz para aprender.
